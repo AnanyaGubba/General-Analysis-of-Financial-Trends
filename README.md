@@ -1,4 +1,6 @@
 # General-Analysis-of-Financial-Trends
+
+# 📌 1. Project Description
 This project performs an end-to-end financial data analysis and prediction, combining the power of machine learning, data visualization, and business reporting. The goal is to identify key trends in financial metrics such as revenue, expenses, profits, and customer growth, and to build predictive models that assist in strategic decision-making.
 
 In addition to Python-based analytics and forecasting, this project integrates:
